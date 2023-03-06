@@ -1,4 +1,5 @@
 public enum Color {
     WHITE,
-    BLASK
+    BLAСK
+
 }

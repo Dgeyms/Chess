@@ -1,4 +1,5 @@
-public class King extends Piece{
+import java.awt.Color;
+public class King extends Piece {
     public King(Color color, Coordinates coordinates) {
         super(color, coordinates);
     }

@@ -1,3 +1,5 @@
+import java.awt.Color;
+
 abstract public class Piece {
     public final Color color;
     public Coordinates coordinates;
